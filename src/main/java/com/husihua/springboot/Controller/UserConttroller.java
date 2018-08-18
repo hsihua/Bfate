@@ -39,6 +39,7 @@ public class UserConttroller {
         user.setPwd("111111111");
         user.setSex("男");
         user.setDate(new Date());
+        user.setDate(new Date());
         user.setUserName("");
         return user;
 
